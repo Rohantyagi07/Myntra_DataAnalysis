@@ -111,19 +111,7 @@ Run all cells to reproduce the analysis.
 
 ---
 
-## 📸 Project Preview
 
-> Add screenshots of your notebook visualizations here.
-
-Example:
-
-```
-images/dashboard.png
-images/price_distribution.png
-images/category_analysis.png
-```
-
----
 
 ## 📌 Skills Demonstrated
 
@@ -158,10 +146,4 @@ Feel free to fork the repository and submit a pull request.
 
 ---
 
-## 👨‍💻 Author
 
-**Rohan Tyagi**
-
-Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization
-
-Connect with me on LinkedIn and GitHub!
